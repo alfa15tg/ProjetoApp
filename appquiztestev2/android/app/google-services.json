@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542948156774",
+    "project_id": "app-quiz-fatec-test",
+    "storage_bucket": "app-quiz-fatec-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542948156774:android:ddbad5fd1b4f5294b494a7",
+        "android_client_info": {
+          "package_name": "com.example.appquiztestev2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542948156774-ruaa11hsj35agus3bcqc8atqs2mvjjic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVOzT59Vs7i9c_fhOM3xTTcVncFYJj1TQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542948156774-ruaa11hsj35agus3bcqc8atqs2mvjjic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
